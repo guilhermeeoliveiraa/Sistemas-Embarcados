@@ -10,4 +10,4 @@ Ferramenta utilizada: [Draw.io](https://app.diagrams.net/)
 
 Ferramenta utilizada: [EasyEDA](https://easyeda.com/)
 
-![Esquemático](Esquematico.jpg)
+![Esquemático](Esquematico.png)
