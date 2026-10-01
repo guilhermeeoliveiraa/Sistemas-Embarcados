@@ -18,7 +18,7 @@ Ferramenta utilizada: [EasyEDA](https://easyeda.com/)
 
 ## Simulação e Código
 
-[Link para Simulação com Código no WOLKI](https://wokwi.com/projects/476054465475543041)
+[Link para Simulação com Código no WOLKI](https://wokwi.com/projects/476686707052098561)
 
 Ferramenta Utilizada: [WOLKI](https://wokwi.com/)
 
