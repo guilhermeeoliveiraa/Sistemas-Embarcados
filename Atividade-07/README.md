@@ -1,4 +1,4 @@
-# Atividade 06
+# Atividade 07
 
 ## Diagrama de Blocos
 
@@ -18,7 +18,7 @@ Ferramenta utilizada: [EasyEDA](https://easyeda.com/)
 
 ## Simulação e Código
 
-[Link para Simulação com Código no WOLKI](https://wokwi.com/projects/476686707052098561)
+[Link para Simulação com Código no WOLKI](https://wokwi.com/projects/476686620337992705)
 
 Ferramenta Utilizada: [WOLKI](https://wokwi.com/)
 

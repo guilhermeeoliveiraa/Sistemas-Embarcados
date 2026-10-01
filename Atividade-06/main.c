@@ -6,7 +6,7 @@
 #include "esp_timer.h"
 
 // Definição dos Pinos
-#define LED_GPIO          GPIO_NUM_4
+#define LED_GPIO          GPIO_NUM_1
 #define BUTTON_GPIO       GPIO_NUM_10
 
 // Definição dos Tempos (em microsegundos - us)
